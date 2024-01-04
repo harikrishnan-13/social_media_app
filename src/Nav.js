@@ -9,7 +9,7 @@ const Nav = ({ search, setSearch }) => {
                 <input
                     id='search'
                     type='text'
-                    autocomplete='off'
+                    autoComplete='off'
                     placeholder='search posts'
                     value={search}
                     onChange={(e) => setSearch(e.target.value)} />

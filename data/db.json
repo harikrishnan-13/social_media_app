@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": 3,
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 4,
+      "title": "Testing a 4th post",
+      "datetime": "August 09, 2021 4:44:22 PM",
+      "body": "Some more testing words"
+    },
+    {
+      "id": 5,
+      "title": "harikrishnan",
+      "datetime": "January 04, 2024 10:53:36 AM",
+      "body": "Im a software developer at cps"
+    },
+    {
+      "id": 6,
+      "title": "Ramana",
+      "datetime": "January 04, 2024 10:58:40 AM",
+      "body": "he is a react developer at HCL"
+    },
+    {
+      "id": 7,
+      "title": "Barath ",
+      "datetime": "January 04, 2024 11:00:32 AM",
+      "body": "he is a java developer at finzly"
+    },
+    {
+      "id": 8,
+      "title": "ajay",
+      "datetime": "January 04, 2024 11:03:30 AM",
+      "body": "he is php developer at touchmark"
+    },
+    {
+      "id": 9,
+      "title": "sathish",
+      "datetime": "January 04, 2024 11:09:34 AM",
+      "body": "he is a vennila javascript developer at zoho"
+    },
+    {
+      "id": 10,
+      "title": "Thamizh",
+      "datetime": "January 04, 2024 3:11:06 PM",
+      "body": "he is a front-end developer at cps"
+    },
+    {
+      "id": 11,
+      "title": "pradhap",
+      "datetime": "January 04, 2024 3:09:08 PM",
+      "body": "he is a database developer at finzly"
+    },
+    {
+      "id": 12,
+      "title": "thiruvarasan",
+      "datetime": "January 04, 2024 3:13:26 PM",
+      "body": "he is a react js developer at zoho"
+    }
+  ]
+}
